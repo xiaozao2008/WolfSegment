@@ -16,4 +16,4 @@
         }
         
 
-
+ ![example](https://raw.githubusercontent.com/xiaozao2008/WolfSegment/master/File/show1.gif)
