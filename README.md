@@ -3,6 +3,10 @@
 ### 一种替代UISegmentedControl的滑动方式，模仿谷歌产品/网易新闻中使用的分段控制的风格。
 
 
+ ![example](https://raw.githubusercontent.com/xiaozao2008/WolfSegment/master/File/show1.gif)
+ 
+ 
+
 ## 使用简单 欢迎随时需求完善
 
 
@@ -16,4 +20,4 @@
         }
         
 
- ![example](https://raw.githubusercontent.com/xiaozao2008/WolfSegment/master/File/show1.gif)
+
