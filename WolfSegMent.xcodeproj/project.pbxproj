@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		03B415E520CFC0450075F55C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		03DEC67720A58C2200FB4597 /* WolfSegMent.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WolfSegMent.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		03DEC67A20A58C2200FB4597 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		03DEC67C20A58C2200FB4597 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,6 +41,7 @@
 		03DEC66E20A58C2200FB4597 = {
 			isa = PBXGroup;
 			children = (
+				03B415E520CFC0450075F55C /* README.md */,
 				03DEC67920A58C2200FB4597 /* WolfSegMent */,
 				03DEC67820A58C2200FB4597 /* Products */,
 			);
